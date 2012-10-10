@@ -1,7 +1,7 @@
-sublime snippets
+Sublime snippets
 ================
 
-A collection of sublime snippets
+A collection of [sublime text 2](http://www.sublimetext.com/2) snippets
 
 *   JavaScript
     * Qunit
