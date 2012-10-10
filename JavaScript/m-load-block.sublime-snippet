@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+m.loadBlock('${1:blockname}', '#${2:block-element-id}', function () {
+
+	var ${1:blockname} = m.blocks.${1:blockname};
+
+	${3}
+
+	return ${1:blockname};
+});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-load-block</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
