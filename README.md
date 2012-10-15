@@ -14,3 +14,4 @@ A collection of [sublime text 2](http://www.sublimetext.com/2) snippets
 	* PHPUnit
 		* testCase (pu-testCase)
 		* test (pu-test)
+		* assertEquals (pu-ae)
