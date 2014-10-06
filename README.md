@@ -5,8 +5,8 @@ A collection of [sublime text 2](http://www.sublimetext.com/2) snippets
 
 *   JavaScript
     * Mocha
-	* describe
-	* it
+        * describe
+        * it
     * Qunit
         * module
         * test
@@ -14,7 +14,7 @@ A collection of [sublime text 2](http://www.sublimetext.com/2) snippets
         * block
         * module
 *   PHP
-	* PHPUnit
-		* testCase (pu-testCase)
-		* test (pu-test)
-		* assertEquals (pu-ae)
+    * PHPUnit
+        * testCase (pu-testCase)
+        * test (pu-test)
+        * assertEquals (pu-ae)
