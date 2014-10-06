@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+it('${1:should...}', function () {
+    ${2:}
+});
+
+]]></content>
+
+
+<tabTrigger>mocha-it</tabTrigger>
+
+</snippet>
