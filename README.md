@@ -4,6 +4,9 @@ Sublime snippets
 A collection of [sublime text 2](http://www.sublimetext.com/2) snippets
 
 *   JavaScript
+*   * Mocha
+*   	* describe
+*   	* it
     * Qunit
         * module
         * test
