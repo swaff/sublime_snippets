@@ -3,10 +3,7 @@
 it('${1:should...}', function () {
     ${2:}
 });
-
 ]]></content>
-
-
-<tabTrigger>mocha-it</tabTrigger>
-
+    
+    <tabTrigger>mocha-it</tabTrigger>
 </snippet>
