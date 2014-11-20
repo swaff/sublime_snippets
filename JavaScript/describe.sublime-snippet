@@ -5,5 +5,5 @@ describe('${1:some-test}', function () {
 });
 ]]></content>
 
-    <tabTrigger>mocha-describe</tabTrigger>
+    <tabTrigger>desc</tabTrigger>
 </snippet>
