@@ -1,12 +1,12 @@
 Sublime snippets
 ================
 
-A collection of [sublime text 2](http://www.sublimetext.com/2) snippets
+A collection of [sublime text](http://www.sublimetext.com/3) snippets
 
 *   JavaScript
-    * Mocha
-        * describe
-        * it
+    * func -> basic function
+    * desc -> bdd style describe block
+    * it   -> bbd style it block
     * Qunit
         * module
         * test
