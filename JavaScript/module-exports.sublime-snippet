@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+module.exports =
+]]></content>
+
+    <tabTrigger>me</tabTrigger>
+    <description>module.exports</description>
+</snippet>
