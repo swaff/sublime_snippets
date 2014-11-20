@@ -1,5 +1,5 @@
 # Copies the snippets from the current directory
-# to .config/sublime-text-2/Packages/User
+# to .config/sublime-text-3/Packages/User
 
 require 'fileutils'
 
@@ -8,7 +8,7 @@ def should_copy(filename)
 end
 
 def copy(filename)
-  FileUtils.cp_r(filename, File.expand_path('~/.config/sublime-text-2/Packages/User'))
+  FileUtils.cp_r(filename, File.expand_path('~/.config/sublime-text-3/Packages/User'))
 end
 
 Dir.foreach(".") { |filename| copy(filename) if should_copy(filename) }
