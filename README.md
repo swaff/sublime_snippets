@@ -14,6 +14,10 @@ me
 
     module.exports =
 
+req
+
+    var module = require('module');
+
 ##JavaScript Testing
 
 desc

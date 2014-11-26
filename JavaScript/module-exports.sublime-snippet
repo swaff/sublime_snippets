@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-module.exports =
+var $1 = require('$2$1');
 ]]></content>
 
-    <tabTrigger>me</tabTrigger>
-    <description>module.exports</description>
+    <tabTrigger>req</tabTrigger>
+    <description>require</description>
 </snippet>
